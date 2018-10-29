@@ -1,7 +1,10 @@
 # dataton_bc
-Participación del grupo *The kernel trick* en la dataton 2018 de Bancolombia.
+Participación del grupo *The kernel trick* en la Datatón 2018 de Bancolombia.
 
 **Miembros:**
-Richard Gil\n
-Eduardo Escobar\n
+
+Richard Gil
+
+Eduardo Escobar
+
 Danny Ortega
